@@ -5,7 +5,7 @@
 
 :telescope: I’m currently working on ***Smart Web Store***
 
-:seedling: I’m currently learning ***React js***
+:seedling: I’m currently learning ***React js*** and ***Flutter***
 
 :man_technologist: All of my projects are available ***<a href="https://github.com/ormoon?tab=repositories" target="_blank">Here</a>***
 
