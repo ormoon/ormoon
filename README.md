@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Arjun Gautam (Ormoon)
 
-## A passionate JS Full stack developer from Nepal.
+## A passionate Full stack JS developer from Nepal.
 
 
 :telescope: I’m currently working on ***Smart Web Store***
