@@ -17,7 +17,7 @@
 
 :zap: Fun fact ***Cricket over any sports.***
 
-<img src="https://github.com/ormoon/ormoon/blob/main/nodejs.png"/>&nbsp; &nbsp;&nbsp; <img src="https://github.com/ormoon/ormoon/blob/main/mongodb.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/quasar.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/react.png"/>&nbsp; &nbsp;&nbsp; <img src="https://github.com/ormoon/ormoon/blob/main/js.png"/>&nbsp; &nbsp;&nbsp; <img src="https://github.com/ormoon/ormoon/blob/main/css.png"/>
+<img src="https://github.com/ormoon/ormoon/blob/main/nodejs.png"/>&nbsp; &nbsp;&nbsp; <img src="https://github.com/ormoon/ormoon/blob/main/mongodb.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/js.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/angular.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/vue.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/react.png"/>&nbsp; &nbsp;&nbsp;<img src="https://github.com/ormoon/ormoon/blob/main/quasar.png"/>&nbsp; &nbsp;&nbsp;  <img src="https://github.com/ormoon/ormoon/blob/main/css.png"/>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ormoon&layout=compact"/>
