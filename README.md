@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Arjun Gautam (Ormoon)
 
-## A passionate MERN stack developer from Nepal.
+## A passionate JS Full stack developer from Nepal.
 
 
 :telescope: I’m currently working on ***Smart Web Store***
@@ -10,6 +10,8 @@
 :man_technologist: All of my projects are available ***<a href="https://github.com/ormoon?tab=repositories" target="_blank">Here</a>***
 
 :speech_balloon: Ask me about ***Back End Development using Node and Express***
+
+:speech_balloon: Ask me about ***Front End Development using Vue, Angular and React***
 
 :mailbox: How to reach me <a href="arjun.gautam9821@gmail.com" target="_blank">arjun.gautam9821@gmail.com</a>
 
