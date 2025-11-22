@@ -3,9 +3,9 @@
 ## A Passionate Full Stack JS Developer From Nepal.
 
 
-:telescope: I’m currently working on ***Smart Web Store***
+:telescope: I’m currently working on ***Nest Blog***
 
-:seedling: I’m currently learning ***Quasar*** and ***Flutter***
+:seedling: I’m currently learning ***Nest js*** and ***System Design***
 
 :man_technologist: All of my projects are available ***<a href="https://github.com/ormoon?tab=repositories" target="_blank">Here</a>***
 
